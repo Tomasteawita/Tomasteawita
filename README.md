@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td><a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png" alt="Python"></a></td>
-    <td><a href="https://www.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" alt="R"></a></td>
-    <td><a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django"></a></td>
+    <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/330px-NumPy_logo.svg.png" width="100%"></a></td>
+    <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/330px-R_logo.svg.png" width="100%"></a></td>
+    <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/330px-Django_logo.svg.png" width="100%"></a></td>
   </tr>
   <tr>
-    <td><a href="https://pandas.pydata.org/"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas"></a></td>
-    <td><a href="https://numpy.org/"><img src="https://numpy.org/images/logos/numpy.svg" alt="Numpy"></a></td>
-    <td><a href="https://powerbi.microsoft.com/"><img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI"></a></td>
+    <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/330px-Pandas_logo.svg.png" width="100%"></a></td>
+    <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Git_logo.svg/330px-Git_logo.svg.png" width="100%"></a></td>
+    <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Python_logo_2020.svg/330px-Python_logo_2020.svg.png" width="100%"></a></td>
   </tr>
 </table>
+
