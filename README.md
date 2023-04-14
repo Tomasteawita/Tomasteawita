@@ -1,5 +1,5 @@
 # Competencias
-<table>
+<table align="center">
   <tbody>
   <tr>
     <td width="10%"><a href="#" width="33%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100%"></a></td>
