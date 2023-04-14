@@ -19,12 +19,12 @@ Here are some ideas to get you started:
         <tbody>
           <tr valign="top">
             <td width="25%" align="center">
-              <span>PHP</span><br><br><br>
-              <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/53713168/199301727-61c19479-4fe9-4fc0-8e7a-634c23d71c7c.png"><img height="auto" src="https://user-images.githubusercontent.com/53713168/199301727-61c19479-4fe9-4fc0-8e7a-634c23d71c7c.png" style="max-width: 100%;"></a>
+              <span>Python</span><br><br><br>
+              <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f588f503d402281815ec27bfe82f9009daa8e2c6f364b83c9ef45c4873d9cd19/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343233382f707974686f6e2e737667"><img height="auto" src="https://camo.githubusercontent.com/f588f503d402281815ec27bfe82f9009daa8e2c6f364b83c9ef45c4873d9cd19/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343233382f707974686f6e2e737667" data-canonical-src="https://www.svgrepo.com/show/354238/python.svg" style="max-width: 100%;"></a>
             </td>
             <td width="25%" align="center">
-              <span>Larave</span><br><br><br>
-              <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/44c0e01512c49174c300ec954190701ae82d3c27073a2f72d03030e479b16ea8/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333938352f6c61726176656c2e737667"><img height="auto" src="https://camo.githubusercontent.com/44c0e01512c49174c300ec954190701ae82d3c27073a2f72d03030e479b16ea8/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333938352f6c61726176656c2e737667" data-canonical-src="https://www.svgrepo.com/show/353985/laravel.svg" style="max-width: 100%;"></a>
+              <span>Django</span><br><br><br>
+              <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/44c0e01512c49174c300ec954190701ae82d3c27073a2f72d03030e479b16ea8/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333938352f6c61726176656c2e737667"><img height="auto" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" style="max-width: 100%;"></a>
             </td>
             <td width="25%" align="center">
               <span>Bootstrap</span><br><br><br>
