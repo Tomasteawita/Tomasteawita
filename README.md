@@ -23,9 +23,10 @@ Here are some ideas to get you started:
               <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f588f503d402281815ec27bfe82f9009daa8e2c6f364b83c9ef45c4873d9cd19/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343233382f707974686f6e2e737667"><img height="auto" src="https://camo.githubusercontent.com/f588f503d402281815ec27bfe82f9009daa8e2c6f364b83c9ef45c4873d9cd19/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343233382f707974686f6e2e737667" data-canonical-src="https://www.svgrepo.com/show/354238/python.svg" style="max-width: 100%;"></a>
             </td>
             <td width="25%" align="center">
-              <span>Django</span><br><br><br>
-              <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/44c0e01512c49174c300ec954190701ae82d3c27073a2f72d03030e479b16ea8/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333938352f6c61726176656c2e737667"><img height="auto" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" style="max-width: 100%;"></a>
-            </td>
+  <span>Django</span><br><br><br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.djangoproject.com/"><img height="auto" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" style="max-width:100%;"></a>
+</td>
+
             <td width="25%" align="center">
               <span>Bootstrap</span><br><br><br>
               <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f652425cf4fe9cf65992e115b889b53f7e3fd2582e145f2992e14b7675ded09e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333239332f626f6f7473747261702d342d6c6f676f2e737667"><img height="auto" src="https://camo.githubusercontent.com/f652425cf4fe9cf65992e115b889b53f7e3fd2582e145f2992e14b7675ded09e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333239332f626f6f7473747261702d342d6c6f676f2e737667" data-canonical-src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" style="max-width: 100%;"></a>
