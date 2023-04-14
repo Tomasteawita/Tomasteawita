@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <tr>
     <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/330px-NumPy_logo.svg.png" width="100%"></a></td>
     <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/330px-R_logo.svg.png" width="100%"></a></td>
-    <td><a href="#"><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/330px-Django_logo.svg.png](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)" width="100%"></a></td>
+    <td><a href="#"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="100%"></a></td>
   </tr>
   <tr>
     <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/330px-Pandas_logo.svg.png" width="100%"></a></td>
