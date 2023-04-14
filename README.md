@@ -17,14 +17,18 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td style="width:33.333%"><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/330px-NumPy_logo.svg.png" width="100%"></a></td>
-    <td style="width:33.333%"><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/330px-R_logo.svg.png" width="100%"></a></td>
+    <td style="width:33.333%"><a href="#"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100%"></a></td>
+    <td style="width:33.333%"><a href="#"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="100%"></a></td>
     <td style="width:33.333%"><a href="#"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="100%"></a></td>
   </tr>
   <tr>
     <td style="width:33.333%"><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/330px-Pandas_logo.svg.png" width="100%"></a></td>
-    <td style="width:33.333%"><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Git_logo.svg/330px-Git_logo.svg.png" width="100%"></a></td>
-    <td style="width:33.333%"><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Python_logo_2020.svg/330px-Python_logo_2020.svg.png" width="100%"></a></td>
+    <td style="width:33.333%"><a href="#"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="100%"></a></td>
+    <td style="width:33.333%"><a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100%"></a></td>
   </tr>
+  <tr>
+    <td style="width:33.333%"><a href="#"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="100%"></a></td>
+    <td style="width:33.333%"><a href="#"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="100%"></a></td>
+    <td style="width:33.333%"><a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="100%"></a></td>
+  </tr> 
 </table>
-
