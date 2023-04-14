@@ -1,6 +1,6 @@
 # Competencias
 <table align="center">
-  <tbody>
+  <tbody widht= "75%">
   <tr>
     <td width="5%"><a href="#" width="33%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100%"></a></td>
     <td width="5%"><a href="#" width="33%"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="100%"></a></td>
