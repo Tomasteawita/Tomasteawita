@@ -1,10 +1,11 @@
 ## Acerca de mí
-Hola, soy Tomas! soy estudiante en la Faculad de Informatica de la UNLP, en Coderhouse y Platzi. Todos los conocimientos incorporados en cada institución van directo a mi formación como Data Engineer. 
+¡Hola! soy Tomás y soy estudiante de la Facultad de Informática de la UNLP, así como de Coderhouse y Platzi. Todos los conocimientos que adquiero en cada una de estas instituciones las alineo a mi formación como Data Engineer.
 
-Me encanta ser parte de proyecto que involucren el desarrollo y análisis bases de datos con el fin de trasnformar datos para convertirlos en información valiosa para qie las empresas puedan tomar decisiones informadas y no por corazonadas.
+Me encanta participar en proyectos que involucren el desarrollo y análisis de bases de datos, con el objetivo de transformar datos en información valiosa para las empresas y ayudarles a tomar decisiones informadas, basadas en hechos en lugar de suposiciones.
 
-"Medir las cosas genera preguntas que nisiquiera sabiamos que teniamos"
+Como dijo Lord Kelvin, "medir las cosas genera preguntas que ni siquiera sabíamos que teníamos". Esta es la razón por la cual me siento atraído por la minería de datos y el análisis, ya que me permite descubrir información oculta y responder preguntas que antes eran difíciles de abordar.
 
+¡Estoy emocionado de estar aquí y espero poder aprender y compartir conocimientos con todos ustedes!
 
 ## Competencias
 <table align="center">
