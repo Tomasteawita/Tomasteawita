@@ -16,13 +16,8 @@ Como dijo Lord Kelvin, "medir las cosas genera preguntas que ni siquiera sabíam
     <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="100%"></a></td>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="100%"></a></td>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100%"></a></td>
-  </tr>
-  <tr>
     <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="100%"></a></td>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="100%"></a></td>
+    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100%"></a></td>
     <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="100%"></a></td>
   </tr>
   <tbody> 
