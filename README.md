@@ -11,14 +11,14 @@ Como dijo Lord Kelvin, "medir las cosas genera preguntas que ni siquiera sabíam
 <table align="center">
   <tbody widht= "10%">
   <tr>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100%"></a></td>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="100%"></a></td>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="100%"></a></td>
+    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50%"></a></td>
+    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="50%"></a></td>
+    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50%"></a></td>
   </tr>
   <tr>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="100%"></a></td>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100%"></a></td>
-    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="100%"></a></td>
+    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50%"></a></td>
+    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50%"></a></td>
+    <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="50%"></a></td>
   </tr>
   <tbody> 
 </table>
