@@ -9,7 +9,7 @@ Como dijo Lord Kelvin, "medir las cosas genera preguntas que ni siquiera sabíam
 
 ## Competencias
 <table align="center">
-  <tbody widht= "10%">
+  <tbody widht= "10%" style="text-aling:center">
   <tr>
     <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50%"></a></td>
     <td width="5%"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="50%"></a></td>
