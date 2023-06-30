@@ -12,7 +12,7 @@ Como dijo Lord Kelvin, "medir las cosas genera preguntas que ni siquiera sabíam
   <tbody widht= "10%">
   <tr>
     <td width="5%" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50%"></a></td>
-    <td width="5%" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="50%"></a></td>
+    <td width="5%" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="50%"></a></td>
     <td width="5%" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50%"></a></td>
   </tr>
   <tr>
@@ -22,6 +22,3 @@ Como dijo Lord Kelvin, "medir las cosas genera preguntas que ni siquiera sabíam
   </tr>
   <tbody> 
 </table>
-
-## Proyectos debajo de esta sección
- 
