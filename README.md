@@ -1,14 +1,16 @@
-## Acerca de mí
-¡Hola! soy Tomás y soy estudiante de la Facultad de Informática de la UNLP, así como de Coderhouse y Platzi. Todos los conocimientos que adquiero en cada una de estas instituciones las alineo a mi formación como Data Engineer.
+# ¡Hola! soy Tomás
+Soy un desarrollador de software con 2 años de experiencia desarrollando proyectos propios y academicos con Python, Django y SASS. Actualmente me encuentro perfeccionando mis habilidades en SQL, Scala y Scripting en Bash.
 
-Me encanta participar en proyectos que involucren el desarrollo y análisis de bases de datos, con el objetivo de transformar datos en información valiosa para las empresas y ayudarles a tomar decisiones informadas, basadas en hechos en lugar de suposiciones.
+Me encanta como el Big data le pueden aportar valor a la sociedad a través del buen uso de los datos, por lo que mi objetivo profesional es ser parte de un equipo de data en el cual pueda desenvolverme cono Data Engineer.
 
-Como dijo Lord Kelvin, "medir las cosas genera preguntas que ni siquiera sabíamos que teníamos". Esta es la razón por la cual me siento atraído por la minería de datos y el análisis, ya que me permite descubrir información oculta y responder preguntas que antes eran difíciles de abordar.
+Mi objetivo personal es crear un negocio que involucre mis conocimientos en el desarrollo de procesos ETL y el desarrollo web con mi respeto por el deporte.
 
-¡Estoy emocionado de estar aquí y espero poder aprender y compartir conocimientos con todos ustedes!
+## Contacto
+* +54 11 2373-1536
+* (Tomas Cueva)[https://www.linkedin.com/in/data-engineer-analytics-science-python-r/]
 
 ## Competencias
-<table align="center" style="text-align: center;">
+<table style="text-align: center;">
   <tbody widht= "10%">
   <tr>
     <td width="5%" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50%"></a></td>
