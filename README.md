@@ -6,8 +6,8 @@ Me encanta como el Big data le pueden aportar valor a la sociedad a través del 
 Mi objetivo personal es crear un negocio que involucre mis conocimientos en el desarrollo de procesos ETL y el desarrollo web con mi respeto por el deporte.
 
 ## Contacto
-* +54 11 2373-1536
-* (Tomas Cueva)[https://www.linkedin.com/in/data-engineer-analytics-science-python-r/]
+* Telefono: +54 11 2373-1536
+* LinkdIn: [Tomas Cueva](https://www.linkedin.com/in/data-engineer-analytics-science-python-r/)
 
 ## Competencias
 <table style="text-align: center;">
