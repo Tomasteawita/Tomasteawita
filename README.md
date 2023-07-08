@@ -1,9 +1,17 @@
 # ¡Hola! soy Tomás
-Soy un desarrollador de software con 2 años de experiencia desarrollando proyectos propios y academicos con Python, Django y SASS. Actualmente me encuentro perfeccionando mis habilidades en SQL, Scala y Scripting en Bash.
+---
+## Acerca de mí
+Soy un Data Engineer con 2 años de experiencia en el desarrollo de proyectos propios y académicos utilizando Python. Actualmente, me encuentro perfeccionando mis habilidades en SQL, Scala, Apache Spark y scripting en Bash. Mi objetivo profesional es ser parte de un equipo de data donde pueda aplicar y desarrollar mis habilidades como Data Engineer.
 
-Me encanta como el Big data le pueden aportar valor a la sociedad a través del buen uso de los datos, por lo que mi objetivo profesional es ser parte de un equipo de data en el cual pueda desenvolverme cono Data Engineer.
+## Experiencia destacada
+* Extracción, transformación y análisis de datos con Python y R
+* Desarrollo web con Django y SASS.
+* Desarrollo de bases de datos relacionales.
 
-Mi objetivo personal es crear un negocio que involucre mis conocimientos en el desarrollo de procesos ETL y el desarrollo web con mi respeto por el deporte.
+## Objetivos
+Mi objetivo profesional es 
+
+Mi objetivo personal es crear un negocio que combine mi experiencia en el desarrollo de procesos ETL y el desarrollo web, con mi pasión por el deporte. Busco constribuir al crecimiento y éxito de .
 
 ## Contacto
 * Telefono: +54 11 2373-1536
