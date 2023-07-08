@@ -9,8 +9,6 @@ Soy un Data Engineer con 2 años de experiencia en el desarrollo de proyectos pr
 * Desarrollo de bases de datos relacionales.
 
 ## Objetivos
-Mi objetivo profesional es 
-
 Mi objetivo personal es crear un negocio que combine mi experiencia en el desarrollo de procesos ETL y el desarrollo web, con mi pasión por el deporte. Busco constribuir al crecimiento y éxito de .
 
 ## Contacto
