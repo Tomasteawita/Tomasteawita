@@ -4,16 +4,17 @@
 Soy un Data Engineer con 2 años de experiencia en el desarrollo de proyectos propios y académicos utilizando Python. Actualmente, me encuentro perfeccionando mis habilidades en SQL, Scala, Apache Spark y scripting en Bash. Mi objetivo profesional es ser parte de un equipo de data donde pueda aplicar y desarrollar mis habilidades como Data Engineer.
 
 ## Experiencia destacada
-* Extracción, transformación y análisis de datos con Python y R
+* Manipulación, transformación y análisis de datos con Python y R
+* Desarrollo de procesos ETL con Python y Scala
 * Desarrollo web con Django y SASS.
 * Desarrollo de bases de datos relacionales.
-
+  
 ## Objetivos
-Mi objetivo personal es crear un negocio que combine mi experiencia en el desarrollo de procesos ETL y el desarrollo web, con mi pasión por el deporte. Busco constribuir al crecimiento y éxito de .
+Mi objetivo personal es crear un negocio que combine mi experiencia en el desarrollo de software y mi pasión por el deporte a través de la transformación e innovación digital de equipos de alto rendimiento.
 
 ## Contacto
-* Telefono: +54 11 2373-1536
-* LinkdIn: [Tomas Cueva](https://www.linkedin.com/in/data-engineer-analytics-science-python-r/)
+* <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="32px"> : +54 11 2373-1536
+* <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32px">: [Tomas Cueva](https://www.linkedin.com/in/data-engineer-analytics-science-python-r/)
 
 ## Competencias
 <table align="center" style="text-align: center;">
