@@ -5,16 +5,25 @@ Soy un Data Engineer con 2 años de experiencia en el desarrollo de proyectos pr
 
 ## Experiencia destacada
 * Manipulación, transformación y análisis de datos con Python y R
-* Desarrollo de procesos ETL con Python y Scala
+  *   [Pizza Restaurant Sales Basket Analysis](https://github.com/CuevaTomasArg/Basket_analysis_R)
+  *   [Plan de evolución de negocio - Microsoft](https://github.com/CuevaTomasArg/Plan_de_evolucion_de_negocio_Microsoft)
+  *   [Aplicación de escritorio y análisis de datos generados por usuarios](https://github.com/CuevaTomasArg/UNLPImage)
+* Desarrollo de procesos ETL con Python
+  * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift](https://github.com/CuevaTomasArg/51940-CuevaTomas)
 * Desarrollo web con Django y SASS.
+  * [App web tipo blog](https://github.com/CuevaTomasArg/Blog_django)
+  * [Calculadora para registro de alumnos nivel primario](https://github.com/CuevaTomasArg/Sea-registers)
 * Desarrollo de bases de datos relacionales.
-  
+  * [Base de datos para App de restaurantes](https://github.com/CuevaTomasArg/43410_TomasCueva)
+
+
 ## Objetivos
 Mi objetivo personal es crear un negocio que combine mi experiencia en el desarrollo de software y mi pasión por el deporte a través de la transformación e innovación digital de equipos de alto rendimiento.
 
 ## Contacto
-* <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="32px"> : +54 11 2373-1536
-* <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32px">: [Tomas Cueva](https://www.linkedin.com/in/data-engineer-analytics-science-python-r/)
+<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="16px"> : +54 11 2373-1536
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: [Tomas Cueva](https://www.linkedin.com/in/data-engineer-analytics-science-python-r/)
+<img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="16px"> : cuevatomass02@gmail.com
 
 ## Competencias
 <table align="center" style="text-align: center;">
