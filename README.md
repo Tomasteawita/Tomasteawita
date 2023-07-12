@@ -21,9 +21,14 @@ Soy un Data Engineer con 2 años de experiencia en el desarrollo de proyectos pr
 Mi objetivo personal es crear un negocio que combine mi experiencia en el desarrollo de software y mi pasión por el deporte a través de la transformación e innovación digital de equipos de alto rendimiento.
 
 ## Contacto
-<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="16px"> : +54 11 2373-1536
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: [Tomas Cueva](https://www.linkedin.com/in/data-engineer-analytics-science-python-r/)
-<img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="16px"> : cuevatomass02@gmail.com
+
+<ul style="list-style-type: none">
+  <li><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="16px"> : +54 11 2373-1536</li>
+  <li><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: [Tomas Cueva](https://www.linkedin.com/in/data-engineer-analytics-science-python-r/)
+</li>
+  <li><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="16px"> : cuevatomass02@gmail.com
+</li>
+</ul>
 
 ## Competencias
 <table align="center" style="text-align: center;">
