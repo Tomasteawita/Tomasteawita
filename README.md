@@ -24,7 +24,7 @@ Mi objetivo personal es crear un negocio que combine mi experiencia en el desarr
 
 <ul style="list-style-type: none">
   <li><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="16px"> : +54 11 2373-1536</li>
-  <li><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: [Tomas Cueva](https://www.linkedin.com/in/data-engineer-analytics-science-python-r/)
+  <li><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: <a href="https://www.linkedin.com/in/data-engineer-analytics-science-python-r/" width="10%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50%">Tomas Cueva</a>
 </li>
   <li><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="16px"> : cuevatomass02@gmail.com
 </li>
