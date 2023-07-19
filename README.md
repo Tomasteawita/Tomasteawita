@@ -1,12 +1,13 @@
 # ¡Hola! soy Tomás
 ---
 ## Acerca de mí
-Soy un Data Engineer con 2 años de experiencia en el desarrollo de proyectos propios y académicos utilizando Python. Actualmente, me encuentro perfeccionando mis habilidades en SQL, Scala, Apache Spark y scripting en Bash. Mi objetivo profesional es ser parte de un equipo de data donde pueda aplicar y desarrollar mis habilidades como Data Engineer.
+¡Hola! Soy Tomás, un Data Engineer con 2 años de experiencia en el desarrollo de proyectos propios y académicos, especializado en la extracción, transformación y análisis de datos. Mi pasión por el Big Data y la creación de soluciones eficientes basadas en sistemas de software me motiva a perfeccionar constantemente mis habilidades en tecnologías como Apache Airflow, Apache Spark y Python, así como en metodologías ágiles de trabajo como SCRUM y Kanban.
 
-## Experiencia destacada
+Con un enfoque centrado en el desarrollo de código limpio y eficiente en Python, me esfuerzo por desarrollar codigo legible y escalable para contribuir al éxito de los proyectos en los que participo. Durante mi trayectoria, he trabajado en proyectos relevantes como [Proceso ETL con Requests, SQLAlchemy y PySpark](https://github.com/CuevaTomasArg/51940-CuevaTomas) o [UNLPImage](https://github.com/CuevaTomasArg/UNLPImage), entre otros. Estoy comprometido a seguir creciendo en el campo de la ingeniería de datos y los sistemas, aportando mi conocimiento y pasión a nuevos desafíos.
+
+## Proyectos destacados
 * Manipulación, transformación y análisis de datos con Python y R
   *   [Pizza Restaurant Sales Basket Analysis](https://github.com/CuevaTomasArg/Basket_analysis_R)
-  *   [Plan de evolución de negocio - Microsoft](https://github.com/CuevaTomasArg/Plan_de_evolucion_de_negocio_Microsoft)
   *   [Aplicación de escritorio y análisis de datos generados por usuarios](https://github.com/CuevaTomasArg/UNLPImage)
 * Desarrollo de procesos ETL con Python
   * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift](https://github.com/CuevaTomasArg/51940-CuevaTomas)
@@ -16,9 +17,16 @@ Soy un Data Engineer con 2 años de experiencia en el desarrollo de proyectos pr
 * Desarrollo de bases de datos relacionales.
   * [Base de datos para App de restaurantes](https://github.com/CuevaTomasArg/43410_TomasCueva)
 
+## Actividades extracurriculares
+* Becado en proyecto de extensión universitaria en vínculo con escuelas secundarias.
+  * Desarrollo e investigación de actividades y herramientas educativas para alumnos secundaria.
+  * Dictado de talleres sobre desarrollo de aplicaciónes web.  
 
-## Objetivos
-Mi objetivo personal es crear un negocio que combine mi experiencia en el desarrollo de software y mi pasión por el deporte a través de la transformación e innovación digital de equipos de alto rendimiento.
+## Logros
+Durante mi trayectoria, he alcanzado diversos logros que han fortalecido mis habilidades tecnicas y mi comunicación. Uno más recientes y más destacado fue liderar un proyecto grupal con 4 integrantes, donde asumí la responsabilidad de definir la arquitectura del software, realizar el análisis de datos y gestionar la implementación de la metodología Kanban. Esta experiencia me permitió mejorar mi capacidad de colaborar eficazmente en equipos multidisciplinarios y enfrentar desafíos complejos con una buena colaboración.
+
+Además, he completado con éxito más de 5 proyectos académicos de manera individual, lo que ha demostrado mi habilidad para abordar proyectos de manera independiente y entregar resultados de calidad. Durante estos proyectos, he aprendido a recibir feedback constructivo y a investigar en diferentes fuentes para mejorar mis soluciones.
+
 
 ## Contacto
 
