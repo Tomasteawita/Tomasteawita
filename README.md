@@ -20,7 +20,7 @@ Con un enfoque centrado en el desarrollo de código limpio y eficiente en Python
 ## Actividades extracurriculares
 * Becado en proyecto de extensión universitaria en vínculo con escuelas secundarias.
   * Desarrollo e investigación de actividades y herramientas educativas para alumnos secundaria.
-  * Dictado de talleres sobre desarrollo de aplicaciónes web.  
+  * Dictado de talleres sobre desarrollo de aplicaciónes móviles.
 
 ## Logros
 Durante mi trayectoria, he alcanzado diversos logros que han fortalecido mis habilidades tecnicas y mi comunicación. Uno más recientes y más destacado fue liderar un proyecto grupal con 4 integrantes, donde asumí la responsabilidad de definir la arquitectura del software, realizar el análisis de datos y gestionar la implementación de la metodología Kanban. Esta experiencia me permitió mejorar mi capacidad de colaborar eficazmente en equipos multidisciplinarios y enfrentar desafíos complejos con una buena colaboración.
