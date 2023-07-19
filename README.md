@@ -17,16 +17,17 @@ Con un enfoque centrado en el desarrollo de código limpio y eficiente en Python
 * Desarrollo de bases de datos relacionales.
   * [Base de datos para App de restaurantes](https://github.com/CuevaTomasArg/43410_TomasCueva)
 
+## Logros
+* Lideré un proyecto grupal con 4 integrantes, definiendo la arquitectura del software, realizando el análisis de datos y gestionando la implementación de la metodología Kanban. Esta experiencia fortaleció mi capacidad para colaborar en equipos multidisciplinarios y enfrentar desafíos complejos con una buena comunicación y colaboración.
+
+* Completé exitosamente más de 5 proyectos académicos de manera individual, demostrando mi habilidad para abordar proyectos de forma independiente y entregar resultados de alta calidad. Durante estos proyectos, desarrollé la capacidad para recibir feedback constructivo y realizar investigaciones en diversas fuentes para mejorar mis soluciones.
+
+* Actualmente soy becado en el proyecto de extensión universitaria "En vínculo con escuelas secundarias" de la Facultad de Informática de la Universidad Nacional de La Plata, lo que me permite seguir adquiriendo conocimientos y contribuir al ámbito educativo.
+
 ## Actividades extracurriculares
 * Becado en proyecto de extensión universitaria en vínculo con escuelas secundarias.
   * Desarrollo e investigación de actividades y herramientas educativas para alumnos secundaria.
   * Dictado de talleres sobre desarrollo de aplicaciónes móviles.
-
-## Logros
-Durante mi trayectoria, he alcanzado diversos logros que han fortalecido mis habilidades tecnicas y mi comunicación. Uno más recientes y más destacado fue liderar un proyecto grupal con 4 integrantes, donde asumí la responsabilidad de definir la arquitectura del software, realizar el análisis de datos y gestionar la implementación de la metodología Kanban. Esta experiencia me permitió mejorar mi capacidad de colaborar eficazmente en equipos multidisciplinarios y enfrentar desafíos complejos con una buena colaboración.
-
-Además, he completado con éxito más de 5 proyectos académicos de manera individual, lo que ha demostrado mi habilidad para abordar proyectos de manera independiente y entregar resultados de calidad. Durante estos proyectos, he aprendido a recibir feedback constructivo y a investigar en diferentes fuentes para mejorar mis soluciones.
-
 
 ## Contacto
 
