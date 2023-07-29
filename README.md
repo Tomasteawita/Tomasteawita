@@ -1,9 +1,15 @@
 # ¡Hola! soy Tomás
 ---
 ## Acerca de mí
-¡Hola! Soy Tomás, un Data Engineer con 2 años de experiencia en el desarrollo de proyectos propios y académicos, especializado en la extracción, transformación y análisis de datos. Mi pasión por el Big Data y la creación de soluciones eficientes basadas en sistemas de software me motiva a perfeccionar constantemente mis habilidades en tecnologías como Apache Airflow, Apache Spark y Python, así como en metodologías ágiles de trabajo como SCRUM y Kanban.
+¡Hola! Soy Tomás, un Data Engineer con 2 años de experiencia en el apasionante mundo del desarrollo de software, procesamiento y análisis de datos. Mi pasión por el desarrollo de software y el uso de herramientas de Big Data en el ámbito financiero me ha llevado a especializarme en estas áreas.
 
-Con un enfoque centrado en el desarrollo de código limpio y eficiente en Python, me esfuerzo por desarrollar codigo legible y escalable para contribuir al éxito de los proyectos en los que participo. Durante mi trayectoria, he trabajado en proyectos relevantes como [Proceso ETL con Requests, SQLAlchemy y PySpark](https://github.com/CuevaTomasArg/51940-CuevaTomas) o [UNLPImage](https://github.com/CuevaTomasArg/UNLPImage), entre otros. Estoy comprometido a seguir creciendo en el campo de la ingeniería de datos y los sistemas, aportando mi conocimiento y pasión a nuevos desafíos.
+El análisis de datos es un proceso importantísimo para la toma de desiciones de una empresa, por eso, mi trabajo es brindar datos limpios y de calidad para que el proceso del análisis de datos sea más eficiente y agil.
+
+Al trabajar conmigo, podrás:
+* Innovar en tus sistemas de flujo de datos, incorporando herramientas avanzadas de procesamiento y análisis de información.
+* Diseñar bases de datos daptadas a las necesidades específicas de tu empresa.
+* Crear procesos de extracción, transformación y almacenamiento de datos para lograr un análisis profundo de tu negocio.
+* Desarrollar sistemas que te permitan ahorrar tiempo en la limpieza y procesamiento de datos, para que puedas enfocar toda tu energía en el análisis y toma de decisiones.
 
 ## Proyectos destacados
 * Manipulación, transformación y análisis de datos con Python y R
