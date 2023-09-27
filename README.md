@@ -17,7 +17,7 @@ Además de mi trabajo actual, continúo mi aprendizaje en el desarrollo web, exp
   * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift](https://github.com/CuevaTomasArg/51940-CuevaTomas)
 * Desarrollo web con Django y SASS.
   * [App web tipo blog](https://github.com/CuevaTomasArg/Blog_django)
-  * [Blog personal](https://github.com/Tomasteawita/blog))
+  * [Blog personal](https://github.com/Tomasteawita/blog)
   * [Calculadora para registro de alumnos nivel primario](https://github.com/CuevaTomasArg/Sea-registers)
   * [Aplicación para planificar entrenamientos](https://github.com/Tomasteawita/training_app)
 * Desarrollo de bases de datos relacionales.
