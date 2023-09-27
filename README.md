@@ -1,15 +1,13 @@
 # ¡Hola! soy Tomás
 ---
 ## Acerca de mí
-¡Hola! Soy Tomás, un Data Engineer con 2 años de experiencia en el apasionante mundo del desarrollo de software, procesamiento y análisis de datos. Mi pasión por el desarrollo de software y el uso de herramientas de Big Data en el ámbito financiero me ha llevado a especializarme en estas áreas.
+¡Hola, soy Tomas Cueva!, desarrollador de aplicaciones web, con aptitudes para desarrollar procesos ETL y análisis de datos, utilizando Python.
 
-El análisis de datos es un proceso importantísimo para la toma de desiciones de una empresa, por eso, mi trabajo es brindar datos limpios y de calidad para que el proceso del análisis de datos sea más eficiente y agil.
+Actualmente me encuentro trabajando en mi negocio de desarrollo de software como freelancer, desarrollando mis propios MVPs(Minimum Viable Products) para encontrar soluciones a entrenadores, con más de una fuente de ingreso, que no cuenten con un sistema de organización que les permita supervisar el crecimiento de cada una de sus fuentes de ingreso (asesoramiento online, presencial, venta de ropa, suplementos, etc). Con el objetivo de mantener la rentabilidad de sus operaciones  y proporcionando un sistema de software que los acompañe en el crecimiento de sus emprendimientos.
 
-Al trabajar conmigo, podrás:
-* Innovar en tus sistemas de flujo de datos, incorporando herramientas avanzadas de procesamiento y análisis de información.
-* Diseñar bases de datos daptadas a las necesidades específicas de tu empresa.
-* Crear procesos de extracción, transformación y almacenamiento de datos para lograr un análisis profundo de tu negocio.
-* Desarrollar sistemas que te permitan ahorrar tiempo en la limpieza y procesamiento de datos, para que puedas enfocar toda tu energía en el análisis y toma de decisiones.
+Cuento con aptitudes en PySpark, Apache Ariflow, Pandas, Django y SQL para cumplir dicho objetivo.
+
+Además de mi trabajo actual, continúo mi aprendizaje en el desarrollo web, explorando tecnologías como React para complementar mis conocimientos en Django, y Solidity para adentrarme en el mundo de la web3.
 
 ## Proyectos destacados
 * Manipulación, transformación y análisis de datos con Python y R
@@ -19,14 +17,16 @@ Al trabajar conmigo, podrás:
   * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift](https://github.com/CuevaTomasArg/51940-CuevaTomas)
 * Desarrollo web con Django y SASS.
   * [App web tipo blog](https://github.com/CuevaTomasArg/Blog_django)
+  * [Blog personal](https://github.com/Tomasteawita/blog))
   * [Calculadora para registro de alumnos nivel primario](https://github.com/CuevaTomasArg/Sea-registers)
+  * [Aplicación para planificar entrenamientos](https://github.com/Tomasteawita/training_app)
 * Desarrollo de bases de datos relacionales.
   * [Base de datos para App de restaurantes](https://github.com/CuevaTomasArg/43410_TomasCueva)
 
 ## Logros
 * Lideré un proyecto grupal con 4 integrantes, definiendo la arquitectura del software, realizando el análisis de datos y gestionando la implementación de la metodología Kanban. Esta experiencia fortaleció mi capacidad para colaborar en equipos multidisciplinarios y enfrentar desafíos complejos con una buena comunicación y colaboración.
 
-* Completé exitosamente más de 5 proyectos académicos de manera individual, demostrando mi habilidad para abordar proyectos de forma independiente y entregar resultados de alta calidad. Durante estos proyectos, desarrollé la capacidad para recibir feedback constructivo y realizar investigaciones en diversas fuentes para mejorar mis soluciones.
+* Desplegue mi primer aplicación desarrollada con Django en un servidor VPS de Hostinger utilizando Apache2 como servidor web.
 
 * Actualmente soy becado en el proyecto de extensión universitaria "En vínculo con escuelas secundarias" de la Facultad de Informática de la Universidad Nacional de La Plata, lo que me permite seguir adquiriendo conocimientos y contribuir al ámbito educativo.
 
@@ -39,7 +39,7 @@ Al trabajar conmigo, podrás:
 
 <ul style="list-style-type: none">
   <li><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="16px"> : +54 11 2373-1536</li>
-  <li><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: <a href="https://www.linkedin.com/in/data-engineer-analytics-science-python-r/" width="10%">Tomas Cueva</a>
+  <li><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: <a href="https://www.linkedin.com/in/tomasteawita/" width="10%">Tomas Cueva</a>
 </li>
   <li><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="16px"> : cuevatomass02@gmail.com
 </li>
@@ -50,7 +50,7 @@ Al trabajar conmigo, podrás:
   <tbody widht= "10%">
   <tr>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50%"></a></td>
-    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="50%"></a></td>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="50%"></a></td>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="50%"></a></td>
   </tr>
   <tr>
