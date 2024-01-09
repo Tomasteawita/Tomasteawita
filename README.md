@@ -42,8 +42,8 @@ Para mí, los emprendedores son los heroes de la sociedad, por lo que siempre es
   </tr>
    <tr>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="50%"></a></td>
-    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="50%"></a></td>
-    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="50%"></a></td>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="./img/airflow.png" width="50%"></a></td>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="./img/amazon_redshift.png" width="50%"></a></td>
   </tr>
   <tbody> 
 </table>
