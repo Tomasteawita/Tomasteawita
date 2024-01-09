@@ -1,13 +1,13 @@
 # ¡Hola! soy Tomás
 ---
 ## Acerca de mí
-¡Hola, soy Tomas Cueva!, desarrollador de aplicaciones web, con aptitudes para desarrollar procesos ETL y análisis de datos, utilizando Python.
+¡Hola, soy Tomas Cueva!, soy un ingeniero de datos entusiasta del emprendimiento, los negocios, Web3 y las finanzas.
 
-Actualmente me encuentro trabajando en mi negocio de desarrollo de software como freelancer, desarrollando mis propios MVPs(Minimum Viable Products) para encontrar soluciones a entrenadores, con más de una fuente de ingreso, que no cuenten con un sistema de organización que les permita supervisar el crecimiento de cada una de sus fuentes de ingreso (asesoramiento online, presencial, venta de ropa, suplementos, etc). Con el objetivo de mantener la rentabilidad de sus operaciones  y proporcionando un sistema de software que los acompañe en el crecimiento de sus emprendimientos.
+Me encanta el software y los datos, por lo que, en términos de Big Data, me especializo en la transformación e integración de datos para que estén limpios y disponibles para su posterior análisis. Y en términos de desarrollo de software, me encanta diseñar mis propios proyectos y subirlos en la web.
 
-Cuento con aptitudes en PySpark, Apache Ariflow, Pandas, Django y SQL para cumplir dicho objetivo.
+Me entusiasma aprender de finanzas y sistemas. Cómo se qué enseñar es la forma más efectiva de aprender, subo contenido hablando sobre ambos temas en mis redes sociales, el mismo va totalmente dirigido a emprendimientos.
 
-Además de mi trabajo actual, continúo mi aprendizaje en el desarrollo web, explorando tecnologías como React para complementar mis conocimientos en Django, y Solidity para adentrarme en el mundo de la web3.
+Para mí, los emprendedores son los heroes de la sociedad, por lo que siempre estaré dispuesto a darle una mano a cualquier emprendimiento que necesite herramientas o conocimiento de software, sistemas y finanzas.
 
 ## Proyectos destacados
 * Manipulación, transformación y análisis de datos con Python y R
@@ -15,25 +15,8 @@ Además de mi trabajo actual, continúo mi aprendizaje en el desarrollo web, exp
   *   [Aplicación de escritorio y análisis de datos generados por usuarios](https://github.com/CuevaTomasArg/UNLPImage)
 * Desarrollo de procesos ETL con Python
   * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift](https://github.com/CuevaTomasArg/51940-CuevaTomas)
-* Desarrollo web con Django y SASS.
-  * [App web tipo blog](https://github.com/CuevaTomasArg/Blog_django)
-  * [Blog personal](https://github.com/Tomasteawita/blog)
-  * [Calculadora para registro de alumnos nivel primario](https://github.com/CuevaTomasArg/Sea-registers)
-  * [Aplicación para planificar entrenamientos](https://github.com/Tomasteawita/training_app)
 * Desarrollo de bases de datos relacionales.
   * [Base de datos para App de restaurantes](https://github.com/CuevaTomasArg/43410_TomasCueva)
-
-## Logros
-* Lideré un proyecto grupal con 4 integrantes, definiendo la arquitectura del software, realizando el análisis de datos y gestionando la implementación de la metodología Kanban. Esta experiencia fortaleció mi capacidad para colaborar en equipos multidisciplinarios y enfrentar desafíos complejos con una buena comunicación y colaboración.
-
-* Desplegue mi primer aplicación desarrollada con Django en un servidor VPS de Hostinger utilizando Apache2 como servidor web.
-
-* Actualmente soy becado en el proyecto de extensión universitaria "En vínculo con escuelas secundarias" de la Facultad de Informática de la Universidad Nacional de La Plata, lo que me permite seguir adquiriendo conocimientos y contribuir al ámbito educativo.
-
-## Actividades extracurriculares
-* Becado en proyecto de extensión universitaria en vínculo con escuelas secundarias.
-  * Desarrollo e investigación de actividades y herramientas educativas para alumnos secundaria.
-  * Dictado de talleres sobre desarrollo de aplicaciónes móviles.
 
 ## Contacto
 
