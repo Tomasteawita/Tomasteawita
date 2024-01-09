@@ -12,7 +12,6 @@ Para mí, los emprendedores son los heroes de la sociedad, por lo que siempre es
 ## Proyectos destacados
 * Manipulación, transformación y análisis de datos con Python y R
   *   [Pizza Restaurant Sales Basket Analysis](https://github.com/CuevaTomasArg/Basket_analysis_R)
-  *   [Aplicación de escritorio y análisis de datos generados por usuarios](https://github.com/CuevaTomasArg/UNLPImage)
 * Desarrollo de procesos ETL con Python
   * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift](https://github.com/CuevaTomasArg/51940-CuevaTomas)
 * Desarrollo de bases de datos relacionales.
