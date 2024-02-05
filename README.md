@@ -1,13 +1,19 @@
 # ¡Hola! soy Tomás
 ---
 ## Acerca de mí
-¡Hola, soy Tomas Cueva!, soy un ingeniero de datos entusiasta del emprendimiento, los negocios, Web3 y las finanzas.
+¡Hola, soy Tomas Cueva!, ingeniero de datos en Datalytics y entusiasta de los datos en general.
 
-Me encanta el software y los datos, por lo que, en términos de Big Data, me especializo en la transformación e integración de datos para que estén limpios y disponibles para su posterior análisis. Y en términos de desarrollo de software, me encanta diseñar mis propios proyectos y subirlos en la web.
+Actualmente me encuentro trabajando con SQL para realizar validaciones de datos a través del motor de consultas distribuido PrestoDB, y realizando refactorizaciones de DAGs en Aiflow. A su vez, me entusiasma el desarrollo de software, por lo que de vez en cuando desarrollo software que siento que puede de serle de utilidad a algun emprendimiento.
 
-Me entusiasma aprender de finanzas y sistemas. Cómo se qué enseñar es la forma más efectiva de aprender, subo contenido hablando sobre ambos temas en mis redes sociales, el mismo va totalmente dirigido a emprendimientos.
+Mi vida y carrera profesional no se centra únicamente en los datos, aunque se lleva un 80% de mi atención, el otro 20% de mi atención la uso para mejorar mis habilidades de comunicación, mi marca personal y mi inteligencia en los negocios.
 
-Para mí, los emprendedores son los heroes de la sociedad, por lo que siempre estaré dispuesto a darle una mano a cualquier emprendimiento que necesite herramientas o conocimiento de software, sistemas y finanzas.
+Confío y afirmo que la mejor forma de alcanzar mi felicidad es a través de la disciplina, el autocontrol, el foco y la opcionalidad. Esos valores los llevo a en mi vida a nivel:
+- Físico
+- Profesional
+- Financiero
+- Interpersonal
+
+Por lo que, me encanta cuidar mi salud, me encanta invertir en mis relaciones, en mi y en mi futuro. Esto me lleva a entrenar, gastar en educación, invertir en la bolsa de valores y usar mi tiempo sabiamente para mi y las personas que más quiero, valoro y amo.
 
 ## Proyectos destacados
 * Manipulación, transformación y análisis de datos con Python y R
