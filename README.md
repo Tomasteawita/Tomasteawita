@@ -24,7 +24,6 @@ Actualmente me encuentro desarrollando proyectos personales, combinando mis cono
 ## Contacto
 
 <ul style="list-style-type: none">
-  <li><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="16px"> : +54 11 2373-1536</li>
   <li><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: <a href="https://www.linkedin.com/in/tomasteawita/" width="10%">Tomas Cueva</a>
 </li>
   <li><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="16px"> : cuevatomass02@gmail.com
