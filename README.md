@@ -1,21 +1,19 @@
 # ¡Hola! soy Tomás
 ---
 ## Acerca de mí
-¡Hola, soy Tomas Cueva!, ingeniero de datos en Datalytics y entusiasta de los datos en general.
+Con 8 meses de experiencia como ingeniero de datos🔧, me desenvuelvo en el rol desarrollando y dando mantenimiento a procesos ETLs dentro del Banco Santander. 
 
-Actualmente me encuentro trabajando con SQL para realizar validaciones de datos a través del motor de consultas distribuido PrestoDB, y realizando refactorizaciones de DAGs en Aiflow. A su vez, me entusiasma el desarrollo de software, por lo que de vez en cuando desarrollo software que siento que puede de serle de utilidad a algun emprendimiento.
+Mis resultados en estos 8 meses fueron:
+- La automatización de tareas internas dentro del equipo. 
+- Desarrollar un entorno de trabajo local con Docker, para la pruebas de scripts de Spark que manipulan parquets de AWS S3. Agilizando el desarrollo de scripts en mi equipo de trabajo.
+- Impulsar el uso de tecnologías recientes, como la biblioteca Polars.
+- Certificarme como Cloud Practitioner en AWS.
 
-Mi vida y carrera profesional no se centra únicamente en los datos, aunque se lleva un 80% de mi atención, el otro 20% de mi atención la uso para mejorar mis habilidades de comunicación, mi marca personal y mi inteligencia en los negocios.
+Mi mindset emprendedor me permite detectar problemáticas, pensar posibles soluciones y aplicar la mejor posible de acuerdo al contexto en el que me encuentre para causar el mayor impacto positivo posible para mis compañeros de trabajo o el usuario final.
 
-Confío y afirmo que la mejor forma de alcanzar mi felicidad es a través de la disciplina, el autocontrol, el foco y la opcionalidad. Esos valores los llevo a en mi vida a nivel:
-- Físico
-- Profesional
-- Financiero
-- Interpersonal
+Actualmente me encuentro desarrollando proyectos personales, combinando mis conocimientos en el Data Engineering y la bolsa de valores, aprovechando estos proyectos para practicar el uso de los servicios de AWS en el Data Engineering. A su vez, esto último me está ayudando a preparararme para rendir el examen para certificarme como Solution Architect en AWS.
 
-Por lo que, me encanta cuidar mi salud, me encanta invertir en mis relaciones, en mi y en mi futuro. Esto me lleva a entrenar, gastar en educación, invertir en la bolsa de valores y usar mi tiempo sabiamente para mi y las personas que más quiero, valoro y amo.
-
-## Proyectos destacados
+## Proyectos personales destacados
 * Manipulación, transformación y análisis de datos con Python y R
   *   [Pizza Restaurant Sales Basket Analysis](https://github.com/CuevaTomasArg/Basket_analysis_R)
 * Desarrollo de procesos ETL con Python
