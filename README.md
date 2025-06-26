@@ -1,7 +1,7 @@
 # ¡Hola! soy Tomás
 ---
 ## Acerca de mí
-Con 8 meses de experiencia como ingeniero de datos🔧, me desenvuelvo en el rol desarrollando y dando mantenimiento a procesos ETLs dentro del Banco Santander. 
+Con 2 años de experiencia como ingeniero de datos🔧, me desenvuelvo en el rol desarrollando y dando mantenimiento a procesos ETLs dentro del Banco Santander. 
 
 Mis resultados en estos 8 meses fueron:
 - La automatización de tareas internas dentro del equipo. 
